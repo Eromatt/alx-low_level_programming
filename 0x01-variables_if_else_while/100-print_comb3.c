@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Program entry on all possible different combinations of two digits.
+ * main - Program entry of all possible different combinations of two digits.
  *
- * Return: ALways 0(Success)
+ * Return: ALways 0 (Success)
  */
 int main(void)
 {
